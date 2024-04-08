@@ -1,8 +1,8 @@
 title: Aegisub Esp
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Documentación de Aegisub en español
 theme: just-the-docs
 
-url: https://rcuchiha.github.io
+url: https://rcuchiha.github.io/aegi-esp
 
 aux_links:
-  Template Repository: https://github.com/rcuchiha/aegi-esp
+  Template Repository: https://github.com/RcUchiha/aegi-esp
